@@ -1,6 +1,13 @@
 # Journal
+# 7/9/26 - Platform Guides and Bearing Holders(5hr 44m)
+Today I have got most of the platform that will hold the item done. I finished the guiderails that let the panel links move smoothly. Next I have to mount the platform on linear rails to allow the platform to move over a certain bin.
+![Linked platform with bearings](images/Linked_platform_with_guides.png)
+![EcoSort with unfinished platform](images/EcoSort_with_platform.webp)
+# 7/8/26 - Platform Links(47m)
+I’ve added bearings to my platform this will allow the platform to move in these guide rails I will design later.
+![Linked platform with bearings](images/Linked_panel_platform_with_bearings.png)
 
-# 7/8/26 - Platform Links
+# 7/8/26 - Platform Links(2h 22m)
 Today I was working on the platform that holds the item. I was able to finish this part assembly. Next I need a frame to use to hold the platform and allowing it to move and drop the item. Overall today I got a lot accomplished. Here are some of the photos down below.
 
 ![Side view of linked platform](images/Side_view_of_platform.png)
