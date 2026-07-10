@@ -3,7 +3,13 @@
 # 7/8/26 - Platform Links
 Today I was working on the platform that holds the item. I was able to finish this part assembly. Next I need a frame to use to hold the platform and allowing it to move and drop the item. Overall today I got a lot accomplished. Here are some of the photos down below.
 
-![Side view of linked platform](images/Side view of platform.png)
+![Side view of linked platform](images/Side_view_of_platform.png)
+
+![Individual link of platform](images/Individual_link_panel.png)
+
+![Top view of linked platform](images/Top_view_of_linked_platform.png)
+
+
 
 
 ## 7/7/26 - Linear Rails for Platform(5hrs)

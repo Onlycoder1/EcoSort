@@ -13,6 +13,6 @@ This is where an idea was born, **EcoSort**. EcoSort is an automated sorting sys
 ## Status 
 The project is not finished yet. I have almost completed the CAD. You can check my progress at [`JOURNAL.MD`](./JOURNAL.md).
 ## Images
-![A rendering of full EcoSort at the moment](images/EcoSort%20July%207%202026.png)
-![A rendering of moving linear slides EcoSort at the moment](images/EcoSort%20Top%20View.png)
+![A rendering of full EcoSort at the moment](images/EcoSort_July_7_2026.png)
+![A rendering of moving linear slides EcoSort at the moment](images/Top_view_of_linked_platform.png)
 
