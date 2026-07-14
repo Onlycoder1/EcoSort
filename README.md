@@ -11,7 +11,7 @@ This is where an idea was born, **EcoSort**. EcoSort is an automated sorting sys
 **4.** Opens the platform opening to drop the item into the bin.
 **5.** Then the platform moves back to it's starting position ready to start again.
 ## Status 
-The project is not finished yet. I have almost completed the CAD. You can check my progress at [`JOURNAL.MD`](./JOURNAL.md).
+The project design is not finished yet. You can check my progress at [`JOURNAL.MD`](./JOURNAL.md).
 ## Images
 ![A rendering of full EcoSort at the moment](images/EcoSort_July_7_2026.png)
 ![A rendering of moving linear slides EcoSort at the moment](images/Top_view_of_linked_platform.png)

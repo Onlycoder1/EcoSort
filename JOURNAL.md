@@ -1,4 +1,12 @@
 # Journal
+# 7/13/26 - Dividers With Curved Guide Rails
+Today I finished the dividers with holders on them to hold the guide rails. The reason I have guide rails in the dividers is because it allows form the platform links to slide into them and slide out easily. This movement allows the links to open or close the platform. 
+![View with divider guide rails](images/2026-07-13_Side_section_view_with_enhanced_divider_guide_rails.png)
+![Platform dividers from a top view](images/2026-07-13_platform_dividers.png)
+![Curved divider guide rail in action](images/2026-07-13_Enhanced_divider_guide_rails.png)
+# 7/11/26 - Updated Sliders(Platform Movers)
+Today I worked on adding two carriages on each linear rail slider, so the platform would be more rigid instead of one on each slider. This time around I also was able to make the carriages move the platform instead of being stuck in place. This really helped me realize how the final output of EcoSort would look like. My next task is to add dividers in between each trash can so I can get the platform links to move into the divider guide rails.
+![EcoSort with two carriages](images/EcoSort_2026-07-11_with_two_carriages.png)
 # 7/9/26 - Platform Guides and Bearing Holders(5hr 44m)
 Today I have got most of the platform that will hold the item done. I finished the guiderails that let the panel links move smoothly. Next I have to mount the platform on linear rails to allow the platform to move over a certain bin.
 ![Linked platform with bearings](images/Linked_platform_with_guides.png)
